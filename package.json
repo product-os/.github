@@ -1,0 +1,14 @@
+{
+  "name": "@balena/product-os-github",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/product-os/.github.git"
+  },
+  "description": "Product OS Repo Templates",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Balena.io. <hello@balena.io>",
+  "license": "UNLICENSED"
+}
