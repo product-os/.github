@@ -1,0 +1,12 @@
+{
+  "name": "Balena Product-OS Publish Typedoc Docs Workflow",
+  "description": "Generate and publish Typedoc documentation to GitHub Pages",
+  "iconName": "typescript-logo",
+  "categories": [
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json",
+    "tsconfig.json"
+  ]
+}
